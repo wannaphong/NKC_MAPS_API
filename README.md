@@ -12,6 +12,8 @@ API For NKC MAPS
 ไม่อนุญาตให้ใฃ้ API ดึงข้อมูลสถานที่ทั้งหมดออกมาเก็บไว้โดยไม่ได้รับอนุญาต
 ```
 
+API : https://github.com/wannaphongcom/NKC_MAPS_API/blob/master/API.md
+
 ## เกี่ยวกับโปรเจค NKC MAPS
 
 NKC MAPS เป็นโปรเจคแผนที่รอบวิทยาเขตหนองคาย
